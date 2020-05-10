@@ -252,9 +252,17 @@
 ------------------------------------------------------------------------------
 ### Front-end Desktop
 ------------------------------------------------------------------------------
+- [X] Electron
+* Carlo
+* Proton Native
+------------------------------------------------------------------------------
 ### Web Assembly
 ------------------------------------------------------------------------------
-
+Web Assembly ou WASM são as intruções binárias geradas a partir de linguages de 
+alto nível como Go, C, C++ ou Rust. São mais rapidas que JavaScript e o WASM 1.0
+já foi lançado nos principais navegadores, a W3C aceitou como uma padrão
+ oficial no final de 2019. Ainda sim isso vai levar muito tempo para se tornar
+ popular no mercado.
 ------------------------------------------------------------------------------
 
 
