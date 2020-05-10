@@ -35,7 +35,7 @@
 - [x] Como a **Internet** funciona?
 	1. [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona)
 	1. [Como a Web funciona](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Como_a_Web_funciona)
-	
+
 - [x] Como funciona o protocolo **HTTP**?
 - [x] Como os **Navegadores** funcionam?
 - [x] Como funciona os **DNS**?
@@ -187,9 +187,24 @@
 ------------------------------------------------------------------------------
 ### Teste no Front-end
 ------------------------------------------------------------------------------
-
+> Aprender as difrentenças entre Testes Unitários, Integrados e Funcionais e 
+> aprender como escrever com as ferramentas listadas a baixo.
+------------------------------------------------------------------------------
+- [X] Jest
+- [X] React-Test-Library
+- [X] Cypress
+- [X] Enzyme
+------------------------------------------------------------------------------
+> Você pode fazer todos os seus testes apenas com essas ferramentas acima.
+------------------------------------------------------------------------------
+* Mocha
+* Chai
+* Ava
+* Jasmine
 ------------------------------------------------------------------------------
 ### Renderização do lado Servidor
+------------------------------------------------------------------------------
+
 ------------------------------------------------------------------------------
 ### Progressive Web Apps
 ------------------------------------------------------------------------------
