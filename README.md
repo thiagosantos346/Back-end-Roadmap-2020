@@ -34,13 +34,27 @@
 ------------------------------------------------------------------------------
 - [x] Como a **Internet** funciona?
 	1. [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona)
-	1. [Como a Web funciona](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Como_a_Web_funciona)
+	1. [Entendendo a diferença entre uma página web, um website, um servidor web e um mecânismo de pesquisa](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Como_a_Web_funciona)
+	1. [Qual a diferença entre página web, site, servidor web e mecanismo de busca?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
 
 - [x] Como funciona o protocolo **HTTP**?
+	1. [HTTP — an Application-Level Protocol](https://dev.opera.com/articles/http-basic-introduction/)
+	1. [HTTP | MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTTP)
 - [x] Como os **Navegadores** funcionam?
+	1. [Como os navegadores funcionam: bastidores dos navegadores modernos](https://www.html5rocks.com/pt/tutorials/internals/howbrowserswork/)
+	1. [Mozilla Gecko](https://developer.mozilla.org/pt-BR/docs/Mozilla/Gecko)
+	1. [SpiderMonkey](https://developer.mozilla.org/pt-BR/docs/Mozilla/Projects/SpiderMonkey)
+	1. [Documentation V8 Chrome](https://v8.dev/docs)
+
 - [x] Como funciona os **DNS**?
+	1. [Você também pode encontrar aqui uma explicação divertida e colorida de como o DNS funciona.](https://howdns.works/)
 - [x] Como funciona os **Nome de Domínios**? 
+	1. [Entendendo nomes de domínio](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/What_is_a_domain_name)
+
 - [x] Como funciona as **Hospedagem na Web**?
+	1.  [O que é um servidor web (web server)?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/o_que_e_um_web_server)
+	1. [Hosting](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_much_does_it_cost#Hosting)
+
 ------------------------------------------------------------------------------
 ### Conhecimentos em segurança para Web
 ------------------------------------------------------------------------------
