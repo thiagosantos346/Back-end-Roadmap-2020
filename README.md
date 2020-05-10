@@ -213,7 +213,25 @@
 	- [X] _Nuxt.js_
 ------------------------------------------------------------------------------
 ### Progressive Web Apps
-
+------------------------------------------------------------------------------
+* Armazenamento
+* Web Sockets
+* Service Workes
+* Localização
+* Notificações
+* Orientação do Dispositivo
+* Serviços de pagamaento
+* Credenciais
+------------------------------------------------------------------------------
+> Aprender diferentes API's Web usadas em PWAs.
+------------------------------------------------------------------------------
+* PRLPL Pattern
+* RAIL Model
+* Metricas de Performace
+* Using Lighthouse
+* Using DevTools
+------------------------------------------------------------------------------
+> Calculação, Mensuração e provisionamento  de performance.
 ------------------------------------------------------------------------------
 ### Geração de Sites estaticos
 ------------------------------------------------------------------------------
